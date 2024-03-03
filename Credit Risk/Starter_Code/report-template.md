@@ -29,7 +29,8 @@ Overall, the model model has very high accuracy (99% of the time correct), but h
 
 ## Summary
 
-Summarize the results of the machine learning model, and include a recommendation on the models use, if any. For example:
+Summarize the results of the machine learning model, and include a recommendation on the models use, if any.
+
 The model is highly accurate for predicting healthy loans, but incorrectly classified 16% as high-risk. This error in the model would cost the organization on lost potential healthy loan originations.  There would likely be an extremely high rate of healthy loans originated based on this model, but it would also miss out on other potential healthy loans by miscategorizing them. If the model would be used, it would be a relatively high risk aversion model. So the organization would need to determine how much risk they are willing to accept and adjust accordingly. If the organization wanted to improve the model precision around high-risk loans there could be more analysis completed to determine which of the predictor variables has the largest effect size on the outcome.
 
 
